@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAS ODIN</string>
+    <string name="tambahdata">Tambah Restoran</string>
+    <string name="lihatdata">Lihat Restoran</string>
+    <string name="namares">Nama Restoran</string>
+    <string name="alamatres">Alamat Restoran</string>
+    <string name="notelpres">Telepon Restoran</string>
+    <string name="emailres">Email Restoran</string>
+</resources>
